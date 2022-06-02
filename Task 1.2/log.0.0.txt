@@ -1,0 +1,24 @@
+фев 28, 2022 10:45:41 PM ru.vsu.baryshev.Rectangle <init>
+INFO: Создаем прямоугольник
+фев 28, 2022 10:45:56 PM ru.vsu.baryshev.Rectangle <init>
+INFO: Создаем прямоугольник
+фев 28, 2022 10:46:03 PM ru.vsu.baryshev.Rectangle <init>
+INFO: Создаем прямоугольник
+фев 28, 2022 10:46:07 PM ru.vsu.baryshev.Rectangle <init>
+WARNING: что-то пошло не так
+фев 28, 2022 10:49:34 PM ru.vsu.baryshev.Rectangle <init>
+INFO: Создаем прямоугольник
+фев 28, 2022 10:49:37 PM ru.vsu.baryshev.Rectangle <init>
+INFO: Создаем прямоугольник
+фев 28, 2022 10:49:41 PM ru.vsu.baryshev.Rectangle <init>
+INFO: Создаем прямоугольник
+фев 28, 2022 10:49:42 PM ru.vsu.baryshev.Rectangle <init>
+INFO: Создаем прямоугольник
+фев 28, 2022 10:49:45 PM ru.vsu.baryshev.Rectangle <init>
+INFO: Создаем прямоугольник
+фев 28, 2022 10:49:47 PM ru.vsu.baryshev.Rectangle <init>
+WARNING: что-то пошло не так
+фев 28, 2022 10:52:50 PM ru.vsu.baryshev.Rectangle <init>
+INFO: Создаем прямоугольник
+фев 28, 2022 10:53:20 PM ru.vsu.baryshev.Rectangle <init>
+WARNING: что-то пошло не так
